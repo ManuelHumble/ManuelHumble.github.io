@@ -1,0 +1,13 @@
+
+{
+  "title": "Hospital Management Analytics",
+  "description": "Analyzing hospital operations to understand patient utilization, appointments, treatments, and billing using SQL.",
+  "image": "projects/hospital-management/thumbnail.png",
+  "tools": [
+    "SQL Server",
+    "SSMS",
+    "Power BI"
+  ],
+  "documentationUrl": "https://github.com/ManuelHumble/hospital-management-data-analysis",
+  "dashboardUrl": ""
+}
