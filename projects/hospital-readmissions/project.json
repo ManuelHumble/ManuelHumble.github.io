@@ -1,0 +1,11 @@
+
+{
+  "title": "Hospital Readmissions Analysis",
+  "description": "A healthcare data analysis and feature engineering pipeline investigating factors associated with 30-day hospital readmissions.",
+  "image": "projects/hospital-readmissions/thumbnail.png",
+  "tools": [
+    "SQL Server"
+      ],
+  "documentationUrl": "",
+  "dashboardUrl": ""
+}
