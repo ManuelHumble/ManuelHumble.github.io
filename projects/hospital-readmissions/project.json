@@ -2,10 +2,17 @@
   "title": "Hospital Readmissions Analysis",
   "description": "A healthcare data analysis and feature engineering pipeline investigating factors associated with 30-day hospital readmissions.",
   "image": "projects/hospital-readmissions/thumbnail.png",
+  "images": [
+    "projects/hospital-readmissions/images/01-sql-workflow.png",
+    "projects/hospital-readmissions/images/02-data-validation.png",
+    "projects/hospital-readmissions/images/03-readmissions-analysis.png",
+    "projects/hospital-readmissions/images/04-feature-engineering.png",
+    "projects/hospital-readmissions/images/05-project-findings.png"
+  ],
   "tools": [
     "SQL Server",
     "T-SQL"
   ],
- "documentationUrl": "https://github.com/ManuelHumble/hospital-readmissions-sql-analysis",
+  "documentationUrl": "https://github.com/ManuelHumble/hospital-readmissions-sql-analysis",
   "dashboardUrl": ""
 }
